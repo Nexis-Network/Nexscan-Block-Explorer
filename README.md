@@ -1,9 +1,8 @@
-<h1 align="center">Blockscout frontend</h1>
+<h1 align="center">Nexscan frontend</h1>
 
 <p align="center">
     <span>Frontend application for </span>
-    <a href="https://github.com/blockscout/blockscout/blob/master/README.md">Blockscout</a>
-    <span> blockchain explorer</span>
+    <span> the Nexis Network EVM explorer</span>
 </p>
 
 ## Running and configuring the app
